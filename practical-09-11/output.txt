@@ -1,0 +1,33 @@
+Welcome to our gym, now set facilities!!
+Table 1 is created with brand Buterfly with price 550
+Table 2 is created with brand Buterfly with price 550
+Treadmill 1 is created with brand Everfit with price 1000
+Treadmill 2 is created with brand Everfit with price 1000
+Good job!!! now invite vips
+Karen is registered as a vip with id 1
+Liu is registered as a vip with id 2
+Hao is registered as a vip with id 3
+Zhang is registered as a vip with id 4
+
+Congratulations, here we can do some exercise
+Karen, do you want to play table tennis(type 1) or treadmill(type 2): Treadmill 1 start with speed 1 and angle 0
+please enter a speed: the speed changes to 1
+please enter an angle: the angle changes to 0
+Treadmill 1 is used with a pretty good looking person running on it.
+Treadmill 1 stops 
+Liu, do you want to play table tennis(type 1) or treadmill(type 2): invalid
+Hao, do you want to play table tennis(type 1) or treadmill(type 2): Treadmill 1 start with speed 1 and angle 0
+please enter a speed: the speed changes to 4
+please enter an angle: the angle changes to 0
+Treadmill 1 is used with a pretty good looking person running on it.
+Treadmill 1 stops 
+Zhang, do you want to play table tennis(type 1) or treadmill(type 2): Treadmill 1 start with speed 1 and angle 0
+please enter a speed: the speed changes to 1
+please enter an angle: the angle changes to 0
+Treadmill 1 is used with a pretty good looking person running on it.
+Treadmill 1 stops 
+Check the Table 1 and evaluate the damage level in range [0,10]: needs repair fee: 55
+Check the Table 2 and evaluate the damage level in range [0,10]: needs repair fee: 110
+Check the Treadmill 1 and evaluate the damage level in range [0,10]: needs repair fee: 300
+Check the Treadmill 2 and evaluate the damage level in range [0,10]: needs repair fee: 400
+you earn 1135 dollars

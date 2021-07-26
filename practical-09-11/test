@@ -1,0 +1,6 @@
+echo Test 01: you earn 1135 dollars
+./adder < input01.txt | diff - output01.txt
+echo Test 02: you earn 880 dollars
+./adder < input02.txt | diff - output02.txt
+echo Test 03: you earn 570 dollars
+./adder < input03.txt | diff - output03.txt
